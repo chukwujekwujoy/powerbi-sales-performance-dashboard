@@ -26,7 +26,7 @@ This page presents key performance indicators and charts comparing revenue by pr
 
 ### 2. Business Insights and Recommendations
 
-![Business Insights Dashboard](business-insights.png)
+![Business Insights Dashboard](Business Insight.png)
 
 This page summarizes the key findings and translates them into practical recommendations for inventory planning, product performance monitoring, and regional sales improvement.
 
@@ -108,8 +108,8 @@ Average selling price is calculated as total revenue divided by total units sold
 
 ## Project Files
 
-- `Sales_Performance_Dashboard.pbix` — interactive Power BI report
-- `images/` — screenshots of the dashboard pages.
+- [Download the Power BI Dashboard (.pbix)](./Sales_Performance_Dashboard.pbix) — interactive Power BI report.
+- Dashboard screenshots are displayed in the preview section above.
 
 ## Project Reflection
 
