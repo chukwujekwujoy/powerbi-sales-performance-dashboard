@@ -20,13 +20,13 @@ This project analyzes a sample sales dataset to demonstrate how business data ca
 
 ### 1. Sales Overview
 
-![Sales Overview Dashboard](sales-overview.png)
+(![Sales Overview Dashboard](Sales%20Overview.png))
 
 This page presents key performance indicators and charts comparing revenue by product, quantity sold by product, and revenue by region. Product and region slicers allow users to explore the data interactively.
 
 ### 2. Business Insights and Recommendations
 
-![Business Insights Dashboard](Business Insight.png)
+![Business Insights Dashboard](Business%20Insight.png)
 
 This page summarizes the key findings and translates them into practical recommendations for inventory planning, product performance monitoring, and regional sales improvement.
 
